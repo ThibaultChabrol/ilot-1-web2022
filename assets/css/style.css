@@ -20,7 +20,7 @@
   background: #16161a;
 }
 .theme-bg {
-  background: #ff5f21;
+  background: #212cff;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -35,28 +35,28 @@
   color: #16161a;
 }
 .theme-color {
-  color: #ff5f21;
+  color: #2137ff;
 }
 .boxed-btn {
   background: #fff;
-  color: #ff5f21 !important;
+  color: #2159ff !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #ff5f21;
+  border: 1px solid #2160ff;
   letter-spacing: 3px;
   text-align: center;
-  color: #ff5f21;
+  color: #2a2dd4;
   text-transform: uppercase;
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #ff5f21;
+  background: #213fff;
   color: #fff !important;
-  border: 1px solid #ff5f21;
+  border: 1px solid #2151ff;
 }
 .boxed-btn:focus {
   outline: none;
@@ -341,7 +341,7 @@ hr {
   display: inline-block;
   transition: 0.6s;
   box-shadow: 0px 7px 21px 0px rgba(0, 0, 0, 0.12);
-  background-image: linear-gradient(to left, #ff5f21, #e6571e, #ff5f21);
+  background-image: linear-gradient(to left, #2151ff, #1e39e6, #213fff);
   background-position: right;
   background-size: 200%;
 }
@@ -366,9 +366,9 @@ hr {
   background-position: left;
   background-image: linear-gradient(
     to left,
-    #ff5f21,
-    #e6571e,
-    #ff5f21
+    #217aff,
+    #1e28e6,
+    #216bff
   ) !important;
   color: #fff;
 }
@@ -389,7 +389,7 @@ hr {
   color: #072366 !important;
 }
 .white-btn::before {
-  background: #ff5f21;
+  background: #2159ff;
   color: #fff !important;
 }
 .black-btn {
@@ -420,7 +420,7 @@ hr {
 }
 .submit-btn2 {
   font-family: 'Oswald', sans-serif;
-  background: #ff5f21;
+  background: #2151ff;
   width: 100%;
   height: 60px;
   padding: 10px 20px;
@@ -477,7 +477,7 @@ hr {
   border-radius: 0;
 }
 .hero-btn:hover {
-  color: #ff5f21 !important;
+  color: #2160ff !important;
 }
 .hero-btn:hover::before {
   transform: scaleY(1);
@@ -516,7 +516,7 @@ hr {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #ff5f21;
+  background: #2159ff;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -551,7 +551,7 @@ hr {
 }
 #scrollUp,
 #back-top {
-  background: #ff5f21;
+  background: #213fff;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -1645,7 +1645,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #ff5f21;
+  border-top-color: #2160ff;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -2073,7 +2073,7 @@ hr {
   background: #16161a;
 }
 .theme-bg {
-  background: #ff5f21;
+  background: #2159ff;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -2088,7 +2088,7 @@ hr {
   color: #16161a;
 }
 .theme-color {
-  color: #ff5f21;
+  color: #2159ff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area {
@@ -2216,7 +2216,7 @@ hr {
   position: unset;
 }
 .main-header .main-menu ul ul.submenu > li > a:hover {
-  color: #ff5f21;
+  color: #2159ff;
   background: none;
   padding-left: 13px !important;
 }
@@ -2233,7 +2233,7 @@ hr {
   z-index: 9;
 }
 .header-sticky.sticky-bar {
-  background: #ff7b47;
+  background: #477bff;
 }
 .header-sticky.sticky-bar.sticky .main-menu ul li a {
   padding: 20px 20px !important;
@@ -2274,7 +2274,7 @@ hr {
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #ff5f21;
+  color: #213fff;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;
@@ -2284,7 +2284,7 @@ hr {
   padding: 0 !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav .slicknav_arrow {
-  color: #ff5f21;
+  color: #2159ff;
 }
 .slider-height {
   min-height: 1008px;
@@ -2660,12 +2660,12 @@ hr {
   margin-bottom: 46px;
 }
 .pricing-card-area .single-card .card-bottom .borders-btn {
-  color: #ff5f21;
+  color: #218cff;
   padding: 10px 64px;
   background: none;
-  border: 1px solid #ff5f21;
+  border: 1px solid #2151ff;
   display: inline-block;
-  color: #ff5f21;
+  color: #2151ff;
   border-radius: 30px;
   text-transform: uppercase;
 }
@@ -3025,7 +3025,7 @@ hr {
   }
 }
 .services-section .single-cat .cat-cap h5 > a:hover {
-  color: #ff5f21;
+  color: #2137ff;
 }
 .services-section .single-cat .cat-cap p {
   color: #707070;
@@ -3063,7 +3063,7 @@ hr {
 }
 .services-active button.slick-arrow i {
   font-size: 20px;
-  color: #ff5f21;
+  color: #216bff;
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
@@ -3157,7 +3157,7 @@ hr {
 }
 .video-area .video-icon a {
   background: #fff;
-  color: #ff5f21;
+  color: #2151ff;
   width: 75px;
   height: 75px;
   display: inline-block;
@@ -3214,7 +3214,7 @@ hr {
   position: relative;
   right: -2px;
   top: 2px;
-  color: #ff5f21;
+  color: #2172ff;
 }
 .video-area .video-icon a.btn-icon {
   position: relative;
@@ -3228,7 +3228,7 @@ hr {
   bottom: -2px;
   right: -2px;
   border-radius: inherit;
-  border: 1px solid #ff5f21;
+  border: 1px solid #2172ff;
   -webkit-animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both
     infinite;
   animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both infinite;
@@ -3613,7 +3613,7 @@ hr {
   width: 197px;
   height: 180px;
   padding: 31px 10px;
-  background: #ff5f21;
+  background: #2185ff;
   text-align: center;
 }
 @media (max-width: 575px) {
@@ -3629,7 +3629,7 @@ hr {
   height: 0;
   border-style: solid;
   border-width: 19px 0px 46px 43px;
-  border-color: transparent transparent #ff5f21 transparent;
+  border-color: transparent transparent #2159ff transparent;
   position: absolute;
   top: -65px;
   content: '';
