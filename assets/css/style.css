@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Oswald:wght@400;600;700&display=swap');
 .gradient-background {
-  background-image: linear-gradient(to left, #0bc6ff, #0d80f3, #0bc6ff);
+  background-image: linear-gradient(to left, #e5a4e7, #da62e7, #dfa5ec);
   background-position: right;
   background-size: 200%;
 }
